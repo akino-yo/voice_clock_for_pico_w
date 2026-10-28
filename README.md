@@ -1,6 +1,6 @@
 # 音声時計
 
-<div style="text-align:right">2026年3月11日</div>
+<div style="text-align:right">2026年10月28日</div>
 
 ## 概要
 
@@ -148,6 +148,8 @@ SDカード用ライブラリー
 
 - [vc.ini](vc.ini)
 
+設定ファイルの詳細は「[音声時計の設定 - 設定ファイル (vc.ini)](http://akino-yo.f5.si/akino-yo/voice_clock-setting/#%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-vc.ini)」を参照してください。
+
 ### 音声ファイル
 
 以下に作成した音声ファイル群を示します。
@@ -208,6 +210,8 @@ SDカード用ライブラリー
            E.wav    「です」
            I.wav    「をおしらせします」
 ```
+
+音声ファイルの詳細は「[音声時計の設定 - 音声ファイル (*.wav)](http://akino-yo.f5.si/akino-yo/voice_clock-setting/#%E9%9F%B3%E5%A3%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-.wav)」を参照してください。
 
 ## 動作
 
